@@ -1,20 +1,14 @@
-.. myblog documentation master file, created by
-   sphinx-quickstart on Fri Jan  6 15:51:19 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to myblog's documentation!
+Introduction
 ==================================
+
+Welcome to MyBlog Documentation.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   001-tutorial
+   002-how-to
+   003-references
+   004-explanation
+   005-release-notes
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
